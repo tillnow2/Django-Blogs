@@ -1,12 +1,18 @@
 # Django-Blogs
 Blogs based on Django framework
 
+### Install Django framework 
+ python -m pip install Django
+
+### For more info about , Try it's official documents
+  https://docs.djangoproject.com/en/4.2/
+
 ### To run in your terminal 
-# python manage.py runserver
+  python manage.py runserver
 
 ### Here you learn the flow of django framework
 
-->How to define routes
-->How to configure templates with Django 
-->Some basics of settings
-->what is wsgi.py file.
+1. How to define routes
+2. How to configure templates with Django 
+3. Some basics of settings
+4. what is wsgi.py file.
