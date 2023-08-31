@@ -2,7 +2,7 @@
 Blogs based on Django framework
 
 ### To run in your terminal 
-python manage.py runserver
+# python manage.py runserver
 
 ### Here you learn the flow of django framework
 
